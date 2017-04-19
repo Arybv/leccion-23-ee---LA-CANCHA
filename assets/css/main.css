@@ -1,0 +1,79 @@
+body{
+  width: 0;
+  height: 0;
+}
+.canchaGrande{
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  background-color: green;
+}
+
+.canchaDentro{
+  position: absolute;
+  width: 119px;
+  height: 119px;
+  background-color: green;
+  top: 9.1px;
+  left: 9.1px;
+  border: 2px solid white;
+}
+.arcos01{
+  position: absolute;
+  display: inline;
+  width: 42px;
+  height: 42px;
+  background-color: green;
+  border-right: 2px solid white;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+  top: 35px;
+}
+.arcos02{
+  position: absolute;
+  display: inline;
+  width: 42px;
+  height: 42px;
+  background-color: green;
+  border: 2px solid white;
+  top: 35px;
+  left: 74.2px;
+}
+.pelota01{
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background-color: #fff;
+  border-radius: 50%;
+  left: 35px;
+  top: -2.8px;
+}
+.pelota02{
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background-color: #fff;
+  border-radius: 50%;
+  left: 35px;
+  top: 35px;
+}
+
+.pelota03{
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background-color: #fff;
+  border-radius: 50%;
+  left: 49px;
+  top: 17.5px;
+}
+
+.area{
+  width: 14px;
+  height: 14px;
+  background-color: green;
+  border-radius: 50%;
+  border: #fff;
+  left: 56px;
+  top: 28px;
+}
